@@ -1,6 +1,6 @@
 Welcome to my page
 
-My Name is Gracie Bass
+My name is Gracie Bass
 
 I am a student at WTC that is currently in the Data Analytic Specialist Program.
 
